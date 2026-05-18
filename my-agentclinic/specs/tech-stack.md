@@ -3,7 +3,11 @@
 ## Backend
 
 - **Language**: TypeScript (server-side)
-- **Framework**: [To be recommended—likely Express or Fastify for reliability and popularity]
+- **Framework**: [Nest.js](https://nestjs.com/)
+  - Opinionated, structured, and designed for building scalable TypeScript applications
+  - Excellent for API development with built-in dependency injection and modularity
+  - Great for teaching and demos—clear patterns and conventions
+  - Strong typing and architectural best practices out of the box
 - **Runtime**: Node.js
 - **Database**: SQLite
   - Lightweight, file-based, zero-configuration setup
