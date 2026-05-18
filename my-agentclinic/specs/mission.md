@@ -15,3 +15,8 @@ Create a humorous yet functional platform that celebrates the trials and tribula
 ## Tone
 
 Playful, satirical, witty—treating AI agent burnout as a genuine phenomenon worthy of comic relief.
+
+## Target Audience
+
+- **Course Students**: Learning spec-driven development with AI coding agents
+- **Conference Presenters**: Developers giving AI coding demos at conference booths
